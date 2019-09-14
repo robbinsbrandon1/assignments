@@ -1,0 +1,52 @@
+body {
+  background-color: white;
+}
+div {
+background-color: lightblue;
+height: 50px;
+}
+h1 {
+  color: white;
+  text-align: left;
+}
+h2{
+color: teal;
+
+
+
+}
+h3{
+margin: 0;
+
+}
+nav{
+
+  font-size : 20px;
+
+}
+
+ul{
+color: grey;
+
+}
+p {
+
+  font-family: verdana;
+  font-size: 15px;
+  color: grey;
+  margin: 0;
+  margin-left: 20px;
+}
+
+header {
+ height:100px;
+ background-image:url("sunset.jpg");
+ background-repeat:no-repeat;
+ background-size:cover;
+}
+footer{
+    display: table;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
