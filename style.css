@@ -36,7 +36,25 @@ p {
   color: grey;
   margin: 0;
   margin-left: 20px;
+ display: table-row;  
 }
+table, th, td {
+  border: 1px solid Lightblue;
+  border-collapse: collapse;
+
+}
+th, td {
+  padding: 5px;
+  text-align: left;
+
+}
+.myclass {
+ background-color: lightgrey;
+ }
+ form  { display: table;      }
+
+ label { display: table-cell; }
+ input { display: table-cell; }
 
 header {
  height:100px;
