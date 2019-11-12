@@ -36,7 +36,9 @@ p {
   color: grey;
   margin: 0;
   margin-left: 20px;
- display: table-row;  
+ display: table-row;
+ line-height: 32px;   /* within paragraph */
+  margin-bottom: 30px; /* between paragraphs */ 
 }
 table, th, td {
   border: 1px solid Lightblue;
